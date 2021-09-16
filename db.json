@@ -1,5 +1,14 @@
 [
-   "https://raw.githubusercontent.com/ibrahim4851/nba-facts-db/main/photos/games.jpg",
-   "https://raw.githubusercontent.com/ibrahim4851/nba-facts-db/main/photos/player.jpeg",
-   "https://raw.githubusercontent.com/ibrahim4851/nba-facts-db/main/photos/teams.png"
+   {
+      "link":"https://raw.githubusercontent.com/ibrahim4851/nba-facts-db/main/photos/games.jpg",
+      "title":"Games"
+   },
+   {
+      "link":"https://raw.githubusercontent.com/ibrahim4851/nba-facts-db/main/photos/player.jpeg",
+      "title":"Players"
+   },
+   {
+      "link":"https://raw.githubusercontent.com/ibrahim4851/nba-facts-db/main/photos/teams.png",
+      "title":"Teams"
+   }
 ]
