@@ -1,11 +1,11 @@
 [
    {
       "id":"1",
-      "link":"https://raw.githubusercontent.com/ibrahim4851/nba-facts-db/main/photos/games.jpg",
+      "link":"https://raw.githubusercontent.com/ibrahim4851/nba-facts-db/main/photos/game.jpeg",
       "title":"Games"
    },
    {  "id":"2",
-      "link":"https://raw.githubusercontent.com/ibrahim4851/nba-facts-db/main/photos/player.jpeg",
+      "link":"https://raw.githubusercontent.com/ibrahim4851/nba-facts-db/main/photos/players.jpeg",
       "title":"Players"
    },
    {  "id":"3",
